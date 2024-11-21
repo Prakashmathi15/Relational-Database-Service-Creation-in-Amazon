@@ -25,8 +25,8 @@ mysql -h <endpoint> -u <username> -p
 ```
 
 ## OUTPUT
-### REG NO:212222110024
-### NAME:MATHESWARAN K
+### REG NO:21222210035
+### NAME:PRAKASH M
 
 ![RDS1](https://github.com/user-attachments/assets/aa6370b6-6a46-4c4a-8a98-a212d0122bb2)
 
